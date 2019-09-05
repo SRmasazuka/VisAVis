@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+  
+<channel>
+<name>[B]### [COLOR yellow]ASSISTA AO TRAILER DA SÉRIE[/COLOR] ###[/B]</name>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/VisAVis/master/trailer</externallink>
+<thumbnail>https://i.imgur.com/1oRXfXP.jpg</thumbnail>
+<fanart>https://i.imgur.com/NxmWDFg.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]::::[/COLOR] 1ª TEMPORADA (VIS A VIS) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/1oRXfXP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/VisAVis/master/S01</externallink>
+<fanart>https://i.imgur.com/NxmWDFg.jpg</fanart>
+<info>
+[B][COLOR yellow]Episódios:[/COLOR] 11[/B]
+[B][COLOR yellow]Data De Lançamento:[/COLOR] 20 de abril de 2015[/B]
+</info>
+</channel>
